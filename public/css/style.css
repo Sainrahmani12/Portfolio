@@ -155,7 +155,7 @@ hr{
 #portfolio .mobile img{
     float: left;
     width: 230px;
-    text-align: center;
+    justify-content: center;
 }
 /* end portfolio */
 
