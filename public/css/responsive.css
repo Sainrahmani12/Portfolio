@@ -28,7 +28,7 @@
     }
 }
 
-@media (max-width : 576px) {
+@media (min-width : 576px) {
     #hero img{
         width: 70%;
     }
