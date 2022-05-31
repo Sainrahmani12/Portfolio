@@ -28,7 +28,7 @@
     }
 }
 
-@media screen and (min-width : 575.98px) {
+@media screen and (max-width : 576px) {
     #hero img{
         width: 70%;
     }
@@ -66,18 +66,6 @@
 
     #portfolio .mobile img{
         width: 87px;
-    }
-
-    #about{
-        width: 100%;
-    }
-
-    #sertifikat{
-        width: 100%;
-    }
-
-    #contact{
-        width: 100%;
     }
 }
 
