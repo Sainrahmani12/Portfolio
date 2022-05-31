@@ -27,6 +27,10 @@ section h1{
     color: var(--acsentColor) !important;
     font-weight: 700;
 }
+
+.nav-link:hover{
+    color: var(--acsentColor) !important;
+}
 /* end navbar */
 
 /* Hero */
@@ -60,6 +64,10 @@ section h1{
     height: 45px;
     font-weight: 700;
     font-size: 1.2rem;
+}
+
+img .img-res{
+    width: 30;
 }
 
 .btn-custom:hover{
@@ -148,7 +156,9 @@ hr{
     padding: 80px 10px;
 }
 
-.mobile{
+#portfolio .mobile{
+    float: left;
+    width: 195px;
     text-align: center;
 }
 /* end portfolio */

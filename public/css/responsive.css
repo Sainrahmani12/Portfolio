@@ -28,9 +28,49 @@
     }
 }
 
-@media screen and (max-width : 576px) {
+@media (max-width : 576px) {
+    #hero img{
+        width: 70%;
+    }
+
+    .social-icon{
+        left: 50%;
+        transform: translate(-50%);
+    }
+
+    #hero .row{
+        padding-bottom: 75px;
+    }
+
+    .btn-custom{
+        width: 40%;
+        margin-top: 10px;
+    }
+
+    img .img-res{
+        width: 5px !important;
+    }
+
+    hr{
+        width: 60%;
+    }
+
+    #skill img{
+        width: 20%;
+    }
+
+    #sertifikat img{
+        width: 300px;
+    }
+
+    #portfolio .card{
+        transform: translate(-25px);
+        width: 400px;
+    }
+
+    #portfolio .mobile{
+        display: flex;
+        width: 190px;
+    }
 }
 
-@media screen and (max-width : 350px) {
-    
-}
