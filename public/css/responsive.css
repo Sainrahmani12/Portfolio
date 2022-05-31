@@ -67,5 +67,17 @@
     #portfolio .mobile img{
         width: 87px;
     }
+
+    #about{
+        width: 100%;
+    }
+
+    #sertifikat{
+        width: 100%;
+    }
+
+    #contact{
+        width: 100%;
+    }
 }
 
