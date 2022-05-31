@@ -28,7 +28,7 @@
     }
 }
 
-@media screen and (min-width : 576px) {
+@media screen and (max-width : 576px) {
     #hero img{
         width: 70%;
     }
@@ -45,10 +45,6 @@
     .btn-custom{
         width: 70%;
         margin-top: 10px;
-    }
-
-    img .img-res{
-        width: 5px !important;
     }
 
     hr{
@@ -68,9 +64,8 @@
         width: 400px;
     }
 
-    #portfolio .mobile{
-        display: flex;
-        width: 190px;
+    #portfolio .mobile img{
+        width: 87px;
     }
 }
 

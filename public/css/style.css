@@ -66,10 +66,6 @@ section h1{
     font-size: 1.2rem;
 }
 
-img .img-res{
-    width: 30;
-}
-
 .btn-custom:hover{
     box-shadow: 0 0 5px rgba(255, 166, 0, 0.8);
     color: white;
@@ -156,9 +152,9 @@ hr{
     padding: 80px 10px;
 }
 
-#portfolio .mobile{
+#portfolio .mobile img{
     float: left;
-    width: 195px;
+    width: 230px;
     text-align: center;
 }
 /* end portfolio */
@@ -182,12 +178,3 @@ hr{
     height: 90;
     padding-top: 80px;
 }
-
-/* div .menu-toggle{
-    color: white;
-    float: right;
-    line-height: 50px;
-    font-size: 24px;
-    cursor: pointer;
-    display: none;
-} */
