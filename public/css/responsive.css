@@ -28,7 +28,7 @@
     }
 }
 
-@media screen and (max-width : 576px) {
+@media screen and (max-width : 650px) {
     #hero img{
         width: 70%;
     }
@@ -47,40 +47,16 @@
         margin-top: 10px;
     }
 
-    #about{
-        height: 100%;
-        display: flex;
-    }
-
-    #about h1, p{
-        margin: auto;
-    }
-
-    #sertifikat{
-        height: 100%;
-        display: flex;
-    }
-
-    #contact{
-        height: 100%;
-        display: flex;
-    }
-
-    #contact h1, p{
-        margin: auto;
-    }
-
     hr{
         width: 60%;
     }
 
     #skill img{
-        width: 75px;
+        width: 30%;
     }
 
     #sertifikat img{
         width: 300px;
-        margin: auto;
     }
 
     #portfolio .card{

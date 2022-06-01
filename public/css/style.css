@@ -156,6 +156,12 @@ hr{
     padding: 80px 10px;
 }
 
+#portfolio .card{
+    width: fit-content;
+    justify-content: center;
+    /* margin-left: 30%; */
+}
+
 #portfolio .mobile img{
     float: left;
     width: 230px;
