@@ -28,7 +28,7 @@
     }
 }
 
-@media screen and (max-width : 650px) {
+@media screen and (max-width : 576px) {
     #hero img{
         width: 70%;
     }
@@ -45,6 +45,18 @@
     .btn-custom{
         width: 70%;
         margin-top: 10px;
+    }
+
+    #about{
+        height: 100%;
+    }
+
+    #sertifikat{
+        height: 100%;
+    }
+
+    #contact{
+        height: 100%;
     }
 
     hr{
