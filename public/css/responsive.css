@@ -49,14 +49,25 @@
 
     #about{
         height: 100%;
+        display: flex;
+    }
+
+    #about h1, p{
+        margin: auto;
     }
 
     #sertifikat{
         height: 100%;
+        display: flex;
     }
 
     #contact{
         height: 100%;
+        display: flex;
+    }
+
+    #contact h1, p{
+        margin: auto;
     }
 
     hr{
@@ -69,6 +80,7 @@
 
     #sertifikat img{
         width: 300px;
+        margin: auto;
     }
 
     #portfolio .card{
