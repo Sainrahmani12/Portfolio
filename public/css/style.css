@@ -157,9 +157,8 @@ hr{
 }
 
 #portfolio .card{
-    width: fit-content;
+    background-color: #414558;
     justify-content: center;
-    /* margin-left: 30%; */
 }
 
 #portfolio .mobile img{
